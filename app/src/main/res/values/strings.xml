@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson 6. Menu</string>
+    <string name="menu_item_alina_activity_main">Alina</string>
+    <string name="menu_item_about_activity_main">About</string>
+    <string name="menu_item_settings_activity_main">Settings</string>
+    <string name="menu_item_search_activity_main">Dima</string>
+    <string name="menu_item_color_activity_main">color</string>
+    <string name="button_nothing_activity_main">NothingButton</string>
+</resources>
